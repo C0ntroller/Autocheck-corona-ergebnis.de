@@ -1,6 +1,6 @@
 # corona-ergebnis.de Checker
 
-A simple script which will automatically tell you if results are in and if that is the result.
+A simple script which will tell you if results are in and if thats the case the result.
 
 ## Requirements
 
